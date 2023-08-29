@@ -7,13 +7,13 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-doc</artifactId>
-		<version>1.1.0-rc.001</version>
+		<version>1.5.4</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<name>fj-doc-mod-itext</name>
 	<description>Fugerit DOC module for output in PDF, RTF and HTML using Itext 2.1.X</description>
-	<version>0.5.0-rc.001</version>
+	<version>1.0.0-sa.1</version>
 
 	<licenses>
 		<license>
