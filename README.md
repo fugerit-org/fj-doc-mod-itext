@@ -4,7 +4,8 @@
 
 [back to fj-doc index](https://github.com/fugerit-org/fj-doc.git)  
 
-[![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-itext.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-itext)
+[![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-itext.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-itext) 
+[![license](https://img.shields.io/badge/License-Apache%20License%202.0-teal.svg)](https://opensource.org/licenses/Apache-2.0)
 
 *Note* : In case you need an itext compatible implementation, consider the new module [fj-doc-mod-openpdf](https://github.com/fugerit-org/fj-doc-mod-openpdf) based on [OpenPDF](https://github.com/LibrePDF/OpenPDF) (an IText fork).
 
