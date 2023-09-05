@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0-sa.2] - 2023-09-05
+
 ### Added
 
 * [Sonar cloud workflow](.github/workflows/sonarcloud-maven.yml)
