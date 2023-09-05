@@ -8,9 +8,6 @@
 [![license](https://img.shields.io/badge/License-Apache%20License%202.0-teal.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-itext&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-itext)
 
-
-[![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-itext.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-itext)
-
 *Note* : In case you need an itext compatible implementation, consider the new module [fj-doc-mod-openpdf](https://github.com/fugerit-org/fj-doc-mod-openpdf) based on [OpenPDF](https://github.com/LibrePDF/OpenPDF) (an IText fork).
 
 *Deprecation* (2022-11-17):  
