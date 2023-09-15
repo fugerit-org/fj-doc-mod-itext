@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0-sa.1] - 2023-09-16
+
+- [workflow deploy on branch main](.github/workflows/deploy_maven_package.yml)
+
+### Changed
+
+* Update fj-doc version to 3.0.4
+* bcprov-jdk14 version set to 1.76
+
+### Security
+
+* [bcprov-jdk14 update](https://github.com/fugerit-org/fj-doc-mod-itext/security/dependabot/9)
+
 ## [1.0.0-sa.2] - 2023-09-05
 
 ### Added
