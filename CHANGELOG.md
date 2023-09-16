@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Sonar cloud coverage badge
+
+### Changed
+
+- [refactor in the shape of fj-doc-mod-openpdf](https://github.com/fugerit-org/fj-doc-mod-itext/issues/4)
+
 ## [1.1.0-sa.1] - 2023-09-16
 
 ### Added
