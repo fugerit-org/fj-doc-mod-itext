@@ -3,6 +3,7 @@ package test.org.fugerit.java.doc.mod.itext.poc;
 import java.awt.Color;
 import java.io.FileOutputStream;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 import com.lowagie.text.Chunk;
@@ -18,7 +19,7 @@ import com.lowagie.text.pdf.PdfDestination;
 import com.lowagie.text.pdf.PdfOutline;
 import com.lowagie.text.pdf.PdfWriter;
 
-public class PocIndex {
+public class TestPocIndex {
 
 	private static final String VERSION = "002";
 	
@@ -94,12 +95,11 @@ public class PocIndex {
 //		ArrayList outlines = new ArrayList();
 //		HashMap map = new HashMap();
 //		outlines.add(map);
-		
 
-		
-	    
 	    
 	    document.close();
+	    
+	    Assert.assertNotNull( document );
 
 	}
 		
